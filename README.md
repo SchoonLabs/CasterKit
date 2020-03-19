@@ -4,4 +4,4 @@ We're compiling an extensive list of podcasting resources to help guide you on y
 
 In the meantime, we would love it if you checked out our new community, built exclusively for podcasters...
 
-###[CasterCommunity.com](https://castercommunity.com)
+### [CasterCommunity.com](https://castercommunity.com)
