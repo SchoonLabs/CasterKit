@@ -148,7 +148,8 @@ _Disclaimer: Some of the links below may be affiliate links. That being said, we
 #### Transcription
 
 * [Auphonic](https://auphonic.com)
-* [YouTube](https://youtube.com)([guide]())
+* [YouTube](https://youtube.com)([how-to guide](https://youtube.com/watch?v=jnVSyBY5yYc))
+* More Coming Soon!
 
 #### Music & Sound Effects
 
@@ -173,6 +174,7 @@ _Disclaimer: Some of the links below may be affiliate links. That being said, we
 
 * [CastSpot](https://castspot.io)
 * [Kitcaster](https://kitcaster.com/)
+* More Coming Soon!
 
 #### Video Equipment
 
@@ -181,6 +183,7 @@ _Disclaimer: Some of the links below may be affiliate links. That being said, we
 #### Other Services
 
 * [Podcast Cover Art](https://thegrowingpodcasts.com)
+* More Coming Soon!
 
 #### Audience Support
 
@@ -235,11 +238,13 @@ _Disclaimer: Some of the links below may be affiliate links. That being said, we
 * [Bluehost](https://www.bluehost.com)
 * [GoDaddy](https://godaddy.com)
 * [Wordpress.org](https://wordpress.org)
+* More Coming Soon! 
 
 #### Newsletter
 
 * [ConvertKit](https://convertkit.com)
 * [Mailchimp](https://mailchimp.com)
+* More Coming Soon! 
 
 #### Social Media Management
 
@@ -257,8 +262,8 @@ _Disclaimer: Some of the links below may be affiliate links. That being said, we
 
 * Coming Soon!
 
+----
 
-
-In the meantime, we would love it if you checked out our new community, built exclusively for podcasters...
+We're also working on building a community exclusively for podcasters, and we would love it if you checked it out!
 
 ### [CasterCommunity.com](https://castercommunity.com)
