@@ -3,27 +3,30 @@
 Welcome to CasterKit
 =================
 
-We've created this resource because the podcasting ecosystem is growing quickly and it can be intimidating if you're just getting started. We know this, because _we're_ just getting started! Rather than learning by ourselves in a bubble, we figured we would share what we learn so others don't need to start from square one.
+We've created this resource because the podcasting ecosystem is growing quickly and it can be intimidating if you're just getting started. We know this, because _we're_ just getting started! Rather than learning by ourselves in a bubble, we figured we would share what we learn so others don't need to start at square one.
 
-Additionally, we have recently created the CasterCommunity for podcasters to gather and network with one another, discuss helpful tips, and share useful resources.
+Additionally, we recently created the [CasterCommunity](https://castercommunity.com)! A community exclusively for podcasters to network with one another, discuss helpful tips, and share useful resources.
 
-This is our mission! To make it easier for more people to create podcasts.
+This is our mission, to make it easier for more people to create podcasts. We hope you find this list helpful!
 
-_Disclaimer: Some of the links below may be affiliate links. That being said, we are not directly affiliated with any of them, and while we have favorites, we don't directly endorse any of them._ 
+.
 
+_Disclaimer: Some of the links below are affiliate links. That being said, we are not directly affiliated with any of them, and while we have favorites, we don't directly endorse any of them._ 
+
+.
 
 ## Table of Contents
 
 * [Microphones](#microphones)
 * [Accessories](#accessories)
 * [Podcast Hosting](#podcast-hosting)
-* [Recording & Editing Software](#recording-&-editing-software)
+* [Recording & Editing Software](#recording--editing-software)
 * [Interview Recording Software](#interview-recording-software)
 * [Advertising](#advertising)
 * [Analytics](#analytics)
 * [Audiogram Creator](#audiogram-creator)
 * [Transcription](#transcription)
-* [Music & Sound Effects](#music-&-sound-effects)
+* [Music & Sound Effects](#music--sound-effects)
 * [Guest Booking](#guest-booking)
 * [Video Equipment](#video-equipment)
 * [Other Services](#other-services)
@@ -262,8 +265,9 @@ _Disclaimer: Some of the links below may be affiliate links. That being said, we
 
 * Coming Soon!
 
+.
+
 ----
+. 
 
-We're also working on building a community exclusively for podcasters, and we would love it if you checked it out!
-
-### [CasterCommunity.com](https://castercommunity.com)
+We realize this is definitely not an exhaustive list of all of the tools available, and are working on adding more. If you have any tools/services you would like to recommend, please fill out this form: https://casterkit.typeform.com/to/BKndas 
