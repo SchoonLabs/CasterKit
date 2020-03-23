@@ -18,15 +18,17 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 ## Table of Contents
 
 * [Microphones](#microphones)
-* [Accessories](#accessories)
+* [Audio Interfaces](#audio-interfaces)
+* [Other Accessories](#other-accessories)
 * [Podcast Hosting](#podcast-hosting)
 * [Recording & Editing Software](#recording--editing-software)
-* [Interview Recording Software](#interview-recording-software)
+* [Remote Recording Software](#remote-recording-software)
 * [Advertising](#advertising)
 * [Analytics](#analytics)
 * [Audiogram Creator](#audiogram-creator)
 * [Transcription](#transcription)
 * [Music & Sound Effects](#music--sound-effects)
+* [Headphones](#headphones)
 * [Guest Booking](#guest-booking)
 * [Video Equipment](#video-equipment)
 * [Other Services](#other-services)
@@ -66,13 +68,32 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Yeti Blue](https://amzn.to/33zykIM)
 * [Zoom H6 6-Track Portable Recorder](https://amzn.to/33Ij8Jl)
 
-#### Accessories
+#### Audio Interfaces
+
+* [Antelope Audio Zen Tour](https://amzn.to/2UqOIai)
+* [Apogee Element 46](https://amzn.to/2QFdQcc)
+* [Arturia AudioFuse](https://amzn.to/2UeOHaK)
+* [Audient iD4](https://amzn.to/3a9dWAC)
+* [Audient Sono](https://amzn.to/2vIyyAR)
+* [Focusrite Scarlett 2i2](https://amzn.to/2WxK50S)
+* [IK Multimedia AXE I/O](https://amzn.to/2WC6bPS)
+* [IK Multimedia iRig Pro Duo](https://amzn.to/33CwAOY)
+* [Mackie Onyx Producer 2.2](https://amzn.to/2xgKv0Y)
+* [MOTU M2 2x2](https://amzn.to/2WA66Mm)
+* [Native Instruments Komplete Audio 1 & Audio 2](https://amzn.to/33Q3hst)
+* [RME Fireface UFX II](https://amzn.to/2UpxSbS)
+* [Steinberg UR22C](https://amzn.to/39duXsj)
+* [Universal Audio Apollo Twin X DUO](https://amzn.to/2QFAUYl)
+
+#### Other Accessories
 
 * [Blue Yeti Foam Cover Pop Filter, Windscreen, 3-in-1](https://amzn.to/3diZk3z)
 * [EJT Microphone Pop Filter](https://amzn.to/3bjd2Sl)
 * [InnoGear Microphone Stand, Windscreen, Pop Filter](https://amzn.to/3dhVK9Y)
 * [Microphone Isolation Shield](https://amzn.to/2WGYbwK)
 * [Pyle Recording Shield Box-Microphone Foam Booth Cube](https://amzn.to/2Uwh2Ir)
+* [RODE PSA 1 Swivel Mount](https://amzn.to/2vMyZtY)
+* [Samson MBA38 Boom Arm](https://amzn.to/2J7oqVh)
 
 #### Podcast Hosting
 
@@ -112,7 +133,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Wavosaur](https://www.wavosaur.com)
 * [Wondershare Filmora](https://filmora.wondershare.com/video-editor)
 
-#### Interview Recording Software
+#### Remote Recording Software
 
 * [Cast](https://tryca.st/)
 * [Cleanfeed](https://cleanfeed.net/)
@@ -151,8 +172,15 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 #### Transcription
 
 * [Auphonic](https://auphonic.com)
+* [Castos](https://castos.com/transcription)
+* [Descript](https://www.descript.com/)
+* [GoTranscript](https://gotranscript.com/)
+* [Rev](https://www.rev.com/transcription)
+* [Scribie](https://scribie.com/)
+* [Sonix](https://sonix.ai/)
+* [Temi](https://www.temi.com/)
+* [Trint](https://trint.com/)
 * [YouTube](https://youtube.com)([how-to guide](https://youtube.com/watch?v=jnVSyBY5yYc))
-* More Coming Soon!
 
 #### Music & Sound Effects
 
@@ -172,6 +200,24 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Silverman Sound Studios](https://www.silvermansound.com/free-music)
 * [Soundbible](http://soundbible.com)
 * [ZapSplat](https://www.zapsplat.com/sound-effect-categories)
+
+#### Headphones
+
+* [1More Triple Driver In-Ear](https://amzn.to/2WIUiaZ)
+* [Audio-Technica ATH-M50x Pro](https://amzn.to/2J6cxyU)
+* [Beyerdynamic DT 1990 Pro](https://amzn.to/2QCBm9M)
+* [Bose Noise Cancelling 700](https://amzn.to/2QGsNL4)
+* [Focal Stellia](https://amzn.to/2WAmQ6b)
+* [Grado SR60e](https://amzn.to/2Uxuv2q)
+* [Jabra Elite 85h](https://amzn.to/2UtrErv)
+* [JBL Live 650BTNC](https://amzn.to/39eETS2)
+* [Optoma NuForce BE Sport4](https://amzn.to/39a1Sh5)
+* [Plantronics BackBeat Go 810](https://amzn.to/2xV9GGC)
+* [RHA S500u](https://amzn.to/2J9crqi)
+* [Sennheiser HD 450BT](https://amzn.to/2UtrCzT)
+* [Sony WF-1000XM3](https://amzn.to/33Q5PH3)
+* [Sony WH-1000XM3](https://amzn.to/3abjACs)
+* [Urbanears Plattan II](https://amzn.to/3adEtNj)
 
 #### Guest Booking
 
