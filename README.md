@@ -132,6 +132,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Ocenaudio](http://www.ocenaudio.com/en/startpage)
 * [Qtractor](https://qtractor.sourceforge.io/qtractor-index.html)
 * [Reaper](https://www.reaper.fm)
+* [Resoundly](https://resound.ly)
 * [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
 * [Soundation](https://soundation.com)
 * [Twisted Wave Online](https://twistedwave.com/online)
@@ -230,7 +231,8 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 #### Guest Booking
 
 * [CastSpot](https://castspot.io)
-* [Kitcaster](https://kitcaster.com/)
+* [PodGuest](https://podguest.me)
+* [Kitcaster](https://kitcaster.com)
 * More Coming Soon!
 
 #### Video Equipment
