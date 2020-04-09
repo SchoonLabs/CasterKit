@@ -54,6 +54,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Audio-Technica ATR2100-USB Cardioid Dynamics XLR](https://amzn.to/2UuiA5t)
 * [Audio-Technica ATR2500-USB Cardioid](https://amzn.to/2QBSNqY)
 * [AT2020 Cardioid Studio XLR](https://amzn.to/33Jknbm)
+* [Deity S-Mic 2](https://amzn.to/3eazYFu)
 * [Fifine Metal](https://amzn.to/2WzdZSc)
 * [Heil PR40](https://amzn.to/3dZi08P)
 * [HyperX Quadcast](https://amzn.to/3dezduN)
@@ -64,11 +65,13 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Razer Seiren Elite](https://amzn.to/2UaqlPq)
 * [Rode Podcaster mic](https://amzn.to/2WAb7EU)
 * [Rode smartLav+](https://amzn.to/34jkqeg)
+* [Samson G-Track Pro](https://amzn.to/3c6d4NE)
 * [Samson Go Portable](https://amzn.to/3diq7gt)
 * [Samson Q2U](https://amzn.to/39avmeW)
 * [Senheiser MKH416](https://amzn.to/33IjUpJ)
 * [Shure MV88 iOS Digital](https://amzn.to/2UqHX8p)
 * [Shure SM58-LC](https://amzn.to/3bToPqE)
+* [Shure SM7B](https://amzn.to/3c2ur1W)
 * [Snowball Ice](https://amzn.to/2ws0tFu)
 * [Yeti Blue](https://amzn.to/33zykIM)
 * [Zoom H6 6-Track Portable Recorder](https://amzn.to/33Ij8Jl)
@@ -177,7 +180,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Ringr](https://www.ringr.com)
 * [Skype](https://www.skype.com)
 * [Soundtrap for Storytellers](https://www.soundtrap.com/storytellers)
-* [SquadCast](https://squadcast.fm/)
+* [SquadCast](https://squadcast.fm/?ref=danschoonmaker2)
 * [Zencastr](https://zencastr.com)
 * [Zoom](https://zoom.us)
 
@@ -263,6 +266,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 #### Guest Booking
 
 * [CastSpot](https://castspot.io)
+* [Podchaser Connect](https://www.podchaser.com/connect)
 * [PodGuest](https://podguest.me)
 * [Kitcaster](https://kitcaster.com)
 * More Coming Soon!
@@ -328,18 +332,26 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 * [Bluehost](https://www.bluehost.com)
 * [GoDaddy](https://godaddy.com)
+* [Squarespace](http://squarespace.com/)
 * [Wordpress.org](https://wordpress.org)
-* More Coming Soon! 
 
 #### Newsletter
 
 * [ConvertKit](https://convertkit.com)
 * [Mailchimp](https://mailchimp.com)
-* More Coming Soon! 
+* [PodBoxer](https://podboxer.com/)
 
 #### Social Media Management
 
-* Coming Soon!
+* [Buffer](https://hootsuite.com)
+* [Hootsuite](https://hootsuite.com)
+* [Iconosquare](https://iconosquare.com/)
+* [Later](https://later.com)
+* [MavSocial](https://mavsocial.com/)
+* [MeetEdgar](https://meetedgar.com/)
+* [Sendible](https://www.sendible.com/)
+* [Sprout Social](https://sproutsocial.com/)
+* [Tailwind](https://www.tailwindapp.com/)
 
 #### Image Editing
 
