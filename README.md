@@ -205,8 +205,14 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 #### Audiogram Creator
 
+* [Bullet (iOS)](http://bullet.audio/)
+* [Castro (iOS)](https://castro.fm/)
+* [Clippa.co](https://clippa.co)
 * [GetAudiogram](https://getaudiogram.com)
 * [Headliner](https://www.headliner.app)
+* [Overcast (iOS)](https://overcast.fm/)
+* [Podcast Video Maker (mobile)](http://onelink.to/bw3bbc)
+* [Vivid.fm](https://vivid.fm)
 * [Wavve](https://wavve.co)
 
 #### Transcription
