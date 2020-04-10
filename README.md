@@ -125,6 +125,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Megaphone](https://www.megaphone.fm/)
 * [OmnyStudio](https://omnystudio.com/)
 * [Pinecast](https://www.pinecast.com/)
+* [Pitch](https://www.getpitch.io)
 * [Podbean](https://www.podbean.com/clipps)
 * [Podcast Machine](http://podcastmachine.com/)
 * [Podcast.co](https://www.podcast.co/)
@@ -196,6 +197,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 * [Backtracks](https://backtracks.fm)
 * [Chartable](https://chartable.com)
+* [PodcastKit](https://www.podcastkit.co)
 * [Podcorn](https://podcorn.com)
 * [Podsights](https://podsights.com)
 * [Podtrac](http://podtrac.com)
@@ -330,7 +332,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 #### Website Hosting
 
-* [Bluehost](https://www.bluehost.com)
+* [Bluehost](https://www.bluehost.com/track/casterkit/)
 * [GoDaddy](https://godaddy.com)
 * [Squarespace](http://squarespace.com/)
 * [Wordpress.org](https://wordpress.org)
