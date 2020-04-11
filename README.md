@@ -212,17 +212,19 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Headliner](https://www.headliner.app)
 * [Overcast (iOS)](https://overcast.fm/)
 * [Podcast Video Maker (mobile)](http://onelink.to/bw3bbc)
-* [Vivid.fm](https://vivid.fm)
+* [Vivid.fm](https://vivid.fm?ref=CasterKit)
 * [Wavve](https://wavve.co)
 
 #### Transcription
 
 * [Auphonic](https://auphonic.com)
 * [Castos](https://castos.com/transcription)
+* [Castup](https://useCastup.com?ref=CasterKit)
 * [Descript](https://www.descript.com/)
 * [GMR Transcription](https://www.gmrtranscription.com/)
 * [GoTranscript](https://gotranscript.com/)
 * [Happy Scribe](https://www.happyscribe.co/)
+* [Plotcast](https://plotcast.co/?ref=casterkit)
 * [PodReacher](https://podreacher.com/)
 * [Rev](https://www.rev.com/transcription)
 * [Scribie](https://scribie.com/)
@@ -233,6 +235,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Transcripty](https://transcripty.com/)
 * [Trint](https://trint.com/)
 * [YouTube](https://youtube.com)([how-to guide](https://youtube.com/watch?v=jnVSyBY5yYc))
+* [zpoken.ai](https://transcribe.zpoken.ai/?ref=CasterKit)
 
 #### Music & Sound Effects
 
@@ -240,6 +243,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Artlist](https://artlist.io)
 * [Audiojungle](https://audiojungle.net)
 * [Audionautix](https://audionautix.com)
+* [Epidemic Sound](https://www.epidemicsound.com)
 * [Free Music Archive](http://freemusicarchive.org)
 * [Free PD](https://freepd.com)
 * [Freesound](https://freesound.org/browse)
@@ -277,11 +281,17 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Podchaser Connect](https://www.podchaser.com/connect)
 * [PodGuest](https://podguest.me)
 * [Kitcaster](https://kitcaster.com)
-* More Coming Soon!
 
 #### Video Equipment
 
-* Coming Soon!
+* [Canon PowerShot SX70 HS Digital Camera](https://amzn.to/2RvFcC7)
+* [Logitech C922 Pro Stream Webcam 1080P Camera](https://amzn.to/3cgCTuN)
+* [Lume Cube](http://lumecube.refr.cc/danschoonmaker)
+* [Manfrotto 290 Light Aluminum 3-Section Tripod](https://amzn.to/2UYiQey)
+* [Neewer Camera Photo/Video LED Ring](https://amzn.to/3a0DWgN)
+* [Sony Alpha A6600 Mirrorless Camera](https://amzn.to/3b3HzUj) ([Bundle](https://amzn.to/2wwdOwu))
+* [Sony - FE 50mm F1.8 Standard Lens](https://amzn.to/2Xu88OO)
+* [Sony RX100 VI 20.1 MP Premium Compact Digital Camera](https://amzn.to/2RxjpKp)
 
 #### Other Services
 
@@ -363,15 +373,30 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 #### Image Editing
 
-* Coming Soon!
+* [Canva](https://canva.com)
 
 #### Podcasting Online Courses
 
-* Coming Soon!
+* [1+1 = Podcast: A Simple Formula for Podcasting Success](https://www.udemy.com/course/one-plus-one-equals-podcast-a-simple-formula-for-podcasting-success/)
+* [How To Start A Podcast](https://www.udemy.com/course/makeapodcast/)
+* [How to Start a Podcast - Podcasting Made Easy](https://www.udemy.com/course/powerpodcasters/)
+* [How to Write a Sponsorship Proposal that Earns](https://www.udemy.com/course/how-to-write-a-sponsorship-proposal/)
+* [Improve Your Speaking Voice to Teach Online or Podcast](https://www.udemy.com/course/how-to-improve-your-voice-to-teach-an-awesome-online-course/)
+* [Music Production in Logic Pro X](https://www.udemy.com/course/thecompletelogicprox/)
+* [Podcast: The top 8 ways to monetize by Podcasting](https://www.udemy.com/course/monetizeyourpodcast/)
+* [Podcast Coach: Podcasting Profits](https://www.udemy.com/course/podcasting-profits-coaching-for-dollars/)
+* [The Podcast Masterclass: The Complete Guide to Podcasting](https://www.udemy.com/course/podcasting-masterclass)
 
-#### Podcasting Books
+#### Books
 
-* Coming Soon!
+* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://amzn.to/2VkUqLd)
+* [Creative, Inc.: The Ultimate Guide to Running a Successful Freelance Business](https://amzn.to/34vs1qg)
+* [Crushing It!: How Great Entrepreneurs Build Their Business and Influence-and How You Can, Too](https://amzn.to/34uOSSG)
+* [Rise of the Youpreneur: The Definitive Guide to Becoming the Go-To Leader in Your Industry and Building a Future-Proof Business](https://amzn.to/2RuHAcl)
+* [Superfans: The Easy Way to Stand Out, Grow Your Tribe, and Build a Successful Business](https://amzn.to/3efY024)
+* [The Thank You Economy](https://amzn.to/2xmh2mK)
+* [Tribe of Mentors: Short Life Advice from the Best in the World](https://amzn.to/3b5bFHk)
+* [Vlog Like a Boss: How to Kill It Online with Video Blogging](https://amzn.to/2XuOdir)
 
 .
 
