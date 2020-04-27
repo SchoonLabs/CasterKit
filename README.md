@@ -113,6 +113,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [ART19](http://art19.com?ref=casterkit)
 * [Audioboom](https://audioboom.com?ref=casterkit)
 * [Ausha](https://www.ausha.co?ref=casterkit)
+* [bCast](https://bcast.fm/?via=dan)
 * [Blubrry](https://blubrry.com?ref=casterkit)
 * [Buzzsprout](https://www.buzzsprout.com/?referrer_id=890707&ref=casterkit)
 * [Captivate](https://www.captivate.fm/signup?ref=danschoonmaker1)
@@ -188,6 +189,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Zoom](https://zoom.us?ref=casterkit)
 
 #### Podcast Discovery
+
 * [Breaker](https://www.breaker.audio?ref=casterkit)
 * [Castbox](https://castbox.fm?ref=casterkit)
 * [Clipps](https://clip.ps?ref=casterkit)
@@ -219,6 +221,11 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Spotify](https://spotify.com?ref=casterkit)
 * [Stitcher](https://www.stitcher.com?ref=casterkit)
 * [Swoot](https://swoot.com?ref=casterkit)
+
+#### SEO
+
+* [Podr](https://podr.co/)
+* [Neil Patel](https://neilpatel.com/blog/podcast-seo/)
 
 #### Advertising
 
@@ -332,7 +339,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 * [Podbites](https://www.podbites.fm?ref=casterkit)
 * [Podcast Cover Art](https://thegrowingpodcasts.com?ref=casterkit)
-* More Coming Soon!
+* [PodcastMotor](https://www.podcastmotor.com/)
 
 #### Audience Support
 
