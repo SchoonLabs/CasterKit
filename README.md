@@ -1,5 +1,13 @@
 ![CasterKit](./assets/CasterKit.png "CasterKit Logo")
 
+<!-- prettier-ignore-start -->
+<p align="center">
+  <a aria-label="Join our Slack Community" href="https://app.slack.com/client/TT4HSNR7H">
+    <img alt="Slack Badge" src="https://img.shields.io/badge/-Join%20our%20podcasting%20community-%236700EB">
+  </a>
+</p>
+<!-- prettier-ignore-end -->
+
 Welcome to CasterKit
 =================
 
@@ -254,6 +262,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Headliner](https://www.headliner.app?ref=casterkit)
 * [Overcast (iOS)](https://overcast.fm?ref=casterkit)
 * [Podcast Video Maker (mobile)](http://onelink.to/bw3bbc?ref=casterkit)
+* [Veed.io](http://veed.io)
 * [Vivid.fm](https://vivid.fm?ref=casterkit)
 * [Wavve](https://wavve.co?ref=casterkit)
 
