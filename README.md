@@ -32,6 +32,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Recording & Editing Software](#recording--editing-software)
 * [Remote Recording Software](#remote-recording-software)
 * [Podcast Discovery](#podcast-discovery)
+* [Marketing](#marketing)
 * [Advertising](#advertising)
 * [Analytics](#analytics)
 * [Audiogram Creator](#audiogram-creator)
@@ -230,10 +231,11 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Stitcher](https://www.stitcher.com?ref=casterkit)
 * [Swoot](https://swoot.com?ref=casterkit)
 
-#### SEO
+#### Marketing
 
-* [Podr](https://podr.co/)
-* [Neil Patel](https://neilpatel.com/blog/podcast-seo/)
+* [Castaway](https://trycastaway.com/?ref=casterkit)
+* [Podr](https://podr.co/?ref=casterkit)
+* [Neil Patel](https://neilpatel.com/blog/podcast-seo/?ref=casterkit)
 
 #### Advertising
 
@@ -275,6 +277,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [GMR Transcription](https://www.gmrtranscription.com?ref=casterkit)
 * [GoTranscript](https://gotranscript.com?ref=casterkit)
 * [Happy Scribe](https://www.happyscribe.co?ref=casterkit)
+* [Otter.ai](https://otter.ai/?ref=casterkit)
 * [Plotcast](https://plotcast.co/?ref=casterkit)
 * [PodReacher](https://podreacher.com?ref=casterkit)
 * [Rev](https://www.rev.com/transcription?ref=casterkit)
@@ -346,9 +349,13 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 #### Other Services
 
+* [Castlink](https://www.cast.link/?ref=casterkit)
+* [Plink](https://plinkhq.com/?ref=casterkit)
 * [Podbites](https://www.podbites.fm?ref=casterkit)
 * [Podcast Cover Art](https://thegrowingpodcasts.com?ref=casterkit)
-* [PodcastMotor](https://www.podcastmotor.com/)
+* [PodcastMotor](https://www.podcastmotor.com/?ref=casterkit)
+* [PodFollow](https://podfollow.com/?ref=casterkit)
+* [PodLink](https://pod.link/?ref=casterkit)
 
 #### Audience Support
 
