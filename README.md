@@ -234,6 +234,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 #### Marketing
 
 * [Castaway](https://trycastaway.com/?ref=casterkit)
+* [Melville.app](https://www.melville.app/?ref=casterkit)
 * [Podr](https://podr.co/?ref=casterkit)
 * [Neil Patel](https://neilpatel.com/blog/podcast-seo/?ref=casterkit)
 
