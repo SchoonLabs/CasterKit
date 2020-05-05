@@ -231,11 +231,17 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Stitcher](https://www.stitcher.com?ref=casterkit)
 * [Swoot](https://swoot.com?ref=casterkit)
 
+#### Audio Quality
+
+* [Auphonic](https://auphonic.com?ref=casterkit)
+* [ClipGain](https://clipgain.io/?ref=casterkit)
+
 #### Marketing
 
 * [Castaway](https://trycastaway.com/?ref=casterkit)
 * [Melville.app](https://www.melville.app/?ref=casterkit)
 * [Podr](https://podr.co/?ref=casterkit)
+* [RedCircle](https://redcircle.com/?ref=casterkit)
 * [Neil Patel](https://neilpatel.com/blog/podcast-seo/?ref=casterkit)
 
 #### Advertising
@@ -271,7 +277,6 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 #### Transcription
 
-* [Auphonic](https://auphonic.com?ref=casterkit)
 * [Castos](https://castos.com/transcription?ref=casterkit)
 * [Castup](https://useCastup.com?ref=CasterKit)
 * [Descript](https://www.descript.com?ref=casterkit)
@@ -335,6 +340,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [CastSpot](https://castspot.io?ref=casterkit)
 * [Podchaser Connect](https://www.podchaser.com/connect?ref=casterkit)
 * [PodGuest](https://podguest.me?ref=casterkit)
+* [PodKoi](https://podkoi.com/?ref=casterkit)
 * [Kitcaster](https://kitcaster.com?ref=casterkit)
 
 #### Video Equipment
@@ -445,6 +451,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 * [Music Production in Logic Pro X](https://www.udemy.com/course/thecompletelogicprox/)
 * [Podcast: The top 8 ways to monetize by Podcasting](https://www.udemy.com/course/monetizeyourpodcast/)
 * [Podcast Coach: Podcasting Profits](https://www.udemy.com/course/podcasting-profits-coaching-for-dollars/)
+* [Power Up Podcasting](https://courses.smartpassiveincome.com/p/power-up-podcasting)
 * [The Podcast Masterclass: The Complete Guide to Podcasting](https://www.udemy.com/course/podcasting-masterclass)
 
 #### Books
