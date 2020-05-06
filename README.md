@@ -240,6 +240,7 @@ _Disclaimer: Some of the links below are affiliate links. That being said, we ar
 
 * [Castaway](https://trycastaway.com/?ref=casterkit)
 * [Melville.app](https://www.melville.app/?ref=casterkit)
+* [PodcastPage.io](https://podcastpage.io/?ref=casterkit)
 * [Podr](https://podr.co/?ref=casterkit)
 * [RedCircle](https://redcircle.com/?ref=casterkit)
 * [Neil Patel](https://neilpatel.com/blog/podcast-seo/?ref=casterkit)
